@@ -1,5 +1,5 @@
 # Visualization-and-XGBoost-for-question-duplication
-All the feature visualizations and comparative supervised learning models
+All the feature visualizations and comparative supervised learning models, machine learning models comparision to be done shortly ;) 
 
 ![capture](https://user-images.githubusercontent.com/24986485/39051991-253cbe6e-44ca-11e8-8fb5-239c93c54c84.JPG)
 
