@@ -1,2 +1,5 @@
 ehi bhitra ko directory ( test ra train ) use garera data visualizations gareko ho
 seaborn ko lagi data -> Quora features -> train features with is_duplicate use gareko ho
+
+read csv garda:
+, encoding = "ISO-8859-1"
